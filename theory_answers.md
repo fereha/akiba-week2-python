@@ -1,9 +1,3 @@
-It's a **mix of theory and practice**. It is not a new coding task. It asks you to **explain your thinking** for Tasks 8, 9, and 10 using the 7 steps, so you write short answers in words (and refer to the code you already have). Your teacher probably wants to see that you can plan a solution, not just write code.
-
-Here is a beginner-level answer for each task that you can copy into your notes or a document and put in your own words.
-
----
-
 ## Task 8: Count Numbers
 
 **1. Understand:** The program asks for a positive number N. It must count from 1 to N and find how many numbers are even, how many are odd, and the sum of all of them.
