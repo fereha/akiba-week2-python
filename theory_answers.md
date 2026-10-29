@@ -92,4 +92,4 @@
 
 ---
 
-If your teacher wants these as a document, I can put them into a Word file or PDF for you. Just tell me which one.
+
